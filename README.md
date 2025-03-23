@@ -4,9 +4,7 @@ Criei uma Landing Page do zero usando TailwindCSS, focando em um design moderno,
 Com TailwindCSS, consegui estruturar o layout de forma prática e escalável, garantindo que o site se adaptasse bem a diferentes dispositivos. O projeto foi todo planejado, desenvolvido e testado, mostrando minha habilidade em criar soluções web eficientes e 
 bem otimizadas.
 
-# Imagens do Projeto:
-
-# Desktop:
+# Imagens do Projeto (Desktop):
 
 ![insove1](https://github.com/user-attachments/assets/819c5e8d-1d97-4886-9e86-66f90cf0f713)
 
@@ -22,7 +20,7 @@ bem otimizadas.
 
 ![insove7](https://github.com/user-attachments/assets/c755a638-0591-4e04-b591-11a9501911bf)
 
-# Mobile:
+# Imagens do Projeto (Mobile):
 
 ![mb1](https://github.com/user-attachments/assets/f9cf16d6-57a8-440f-abc6-6a52960d1210)
 
